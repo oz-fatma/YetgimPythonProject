@@ -9,7 +9,7 @@ Canlı önizleme ile filtre/ayarlar uygulayıp çıktıyı JPG/PNG olarak kayded
 
 ## Ekran Görüntüsü
 
-![Uygulama Önizleme](YetgimPythonProject/blob/main/app.png)
+![Uygulama Önizleme](https://github.com/oz-fatma/YetgimPythonProject/blob/https/github.com/oz-fatma/YetgimPythonProject/blob/main/screenshots/app.png)
 
 ---
 
