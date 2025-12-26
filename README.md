@@ -9,7 +9,7 @@ Canlı önizleme ile filtre/ayarlar uygulayıp çıktıyı JPG/PNG olarak kayded
 
 ## Ekran Görüntüsü
 
-![Uygulama Önizleme](assets/screenshot-main.png)
+![Uygulama Önizleme](YetgimPythonProject/blob/main/app.png)
 
 ---
 
